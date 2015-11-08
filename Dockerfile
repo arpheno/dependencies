@@ -24,4 +24,3 @@ RUN pip install urllib3
 RUN pip install django-revproxy
 RUN pip install psycopg2
 RUN pip install python-memcached
-
